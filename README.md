@@ -4,7 +4,7 @@ Hey, 👋, I'm shoebob!
 Svelte and Java developer
 -------------------------
 
-I've been programming for 6 years, and I've fallen in love with strongly-typed languages, such as Java. I also do frontend work with Svelte.
+I've been programming for 6 years, and I've fallen in love with strongly-typed OO languages, such as Java. I also do front-end work with Svelte.
 
 * 🌍  I'm from the United States
 * ✉️  You can contact me at [shoebob15@gmail.com](mailto:shoebob15@gmail.com)
