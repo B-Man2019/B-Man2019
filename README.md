@@ -9,7 +9,7 @@ I've been programming for 6 years, and I've fallen in love with strongly-typed O
 * 🌍  I'm from the United States
 * ✉️  You can contact me at [shoebob15@gmail.com](mailto:shoebob15@gmail.com)
 * 🚀  I'm currently working on [GxmeCentral, a new era of online games](http://gxmecentral.web.app)
-* 🧠  I'm learning iOS Dev and C++
+* 🧠  I'm learning iOS Dev, C++, and Java
 
 ### Skills
 
