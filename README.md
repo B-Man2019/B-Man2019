@@ -1,10 +1,10 @@
-Skills
-- C/C++
+**Skills**
+- C
 - Java
-- Rust
+- Swift
 - Svelte
 
-Projects:
+**Projects**
 - Depths of the Dungeon
 - Cetris
 - GxmeCentral
